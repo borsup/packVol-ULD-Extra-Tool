@@ -3,7 +3,7 @@ An Excel VBA tool to add customizable inlaps to PackVol containers.
 
 Installation
 ============
-To use this tool, you will need Microsoft Excel installed on your Windows-based computer. To install, simply download the packpackVol-ULD-Extra-Tool.xlsm file from this repository and open it in Excel.
+To use this tool, you will need Microsoft Excel installed on your Windows-based computer. To install, simply download the packVol-ULD-Extra-Tool.xlsm file from this repository and open it in Excel.
 
 Usage
 =====
