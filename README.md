@@ -3,11 +3,11 @@ An Excel VBA tool to add customizable inlaps to PackVol containers.
 
 Installation
 ============
-To use this tool, you will need Microsoft Excel installed on your Windows-based computer. To install, simply download the packVol_ULD_Extra_Tool.xlsm file from this repository and open it in Excel.
+To use this tool, you will need Microsoft Excel installed on your Windows-based computer. To install, simply download the packpackVol-ULD-Extra-Tool.xlsm file from this repository and open it in Excel.
 
 Usage
 =====
-Click on the "Import container file" button and select the XLS file generated from PackVol. The container properties sheet will be copied to the packVol_ULD_Extra_Tool.xlsm file.
+Click on the "Import container file" button and select the XLS file generated from PackVol. The container properties sheet will be copied to the packVol-ULD-Extra-Tool.xlsm file.
 
 (Optional) Define a name for the container you want to create. The container name cannot exceed 40 characters.
 
@@ -19,7 +19,7 @@ For each inlap, fill in the fields to define its properties. Select the axis on 
 
 Once all the inlaps have been defined, click on the "Build my inlap container" button. The program will add the properties for each inlap to the sheet corresponding to the chosen container.
 
-The newly created file will be saved in the user's "Downloads" folder and can be imported into the PackVol software. The user will then see a 3D representation of the container with the inlaps of your choice. In this way, when Packvol will make the loading optimization, no package will be placed inside these regions.
+The newly created file will be saved in your username's "Downloads" folder and can be imported into the PackVol software. You will then see a 3D representation of the container with the inlaps of your choice. In this way, when Packvol will make the loading optimization, no package will be placed inside these regions.
 
 Contributing
 ============
